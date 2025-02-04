@@ -4,8 +4,10 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🔭 I’m currently working freelance as **Frontend Developer**.
-- 🌱 Currently studying Computer Engineering at Indonesia University of Education.
+- 🎓 Fresh Graduate in Computer Engineering from Indonesia University of Education
+- 🧠 Specializing in AI, Machine Learning, LLMs, and Web Development
+- 🏆 Google TensorFlow Developer Certified
+- 🔬 Experience in Deep Learning, NLP, and AI-powered applications
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aldiraspra)
 
 ### 🛠 &nbsp;Tech Stack
